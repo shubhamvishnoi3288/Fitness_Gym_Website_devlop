@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    box-sizing: border-box;
+    font-family: 'Sriracha', cursive;
+}
+header{
+    background-image:linear-gradient(rgba(79, 216, 102, 0.5),rgba(224, 89, 89, 0.5)), url(gymo.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: -55px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+   text-decoration: none;
+   color: #fff;
+   padding: 5px 20px;
+   border: 1px solid transparent;
+   transition: 0.6s ease;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+}
+
+.main{
+    max-width: 1200px;
+    margin: auto;  
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.title h1{
+    color: #fff;
+    font-size: 70px;
+}
+.button{
+    position: absolute;
+    top: 63%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: auto;
+    margin-left: 181px;
+    padding-top: 56px;
+
+}
+a:hover {
+  background-color: yellow;
+}
+.button:hover{
+   color:green;
+}
+.btn{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color:#1e1b20;
+    text-decoration: none;
+    transition: 0.6s ease;
+    background-color:#ffffff82;
+}
+.dev{
+    color :rgb(35, 11, 247);
+    font-weight: 700;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   margin-left: 12px;
+   font-size: 23px;
+   margin-right: 12px;
+   padding: auto;
+ }
+.dev:hover{
+    color:magenta;
+    border: 3px solid black;
+    border-radius: 18px;
+    cursor: pointer;
+}
+.dr{
+    background: blueviolet;
+    border: 2px solid black;
+    font-size: xx-large;
+    font-style: italic;
+}
+.rr{  
+    border: 2px solid black;
+    font-size: 15px;
+
+}
