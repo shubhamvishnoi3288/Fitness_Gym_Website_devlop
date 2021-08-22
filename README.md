@@ -2,7 +2,7 @@
 # Fitness_Gym_Website_devlopment
   https://shubhamvishnoi3288.github.io/Fitness_Gym_Website_devlop/
  
- 
+                              
 A Responsive Gym website using HTML, CSS and JavaScript....
 
 A  Framework are used in our website like Bootstrap 4 and Bootstrap 5  and Brackets and designing approch are follow in Tailwind Css
