@@ -5,7 +5,7 @@
                               
 A Responsive Gym website using HTML, CSS and JavaScript....
 
-A  Framework are used in our website like Bootstrap 4 and Bootstrap 5  and Brackets and designing approch are follow in Tailwind Css
+A   Framework are used in our website like Bootstrap 4 and Bootstrap 5  and Brackets and designing approch are follow in Tailwind Css
 
 a front end project for a Gym website experimenting with new fonts and styles....
 
