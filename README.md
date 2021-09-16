@@ -10,7 +10,7 @@ A   Framework are used in our website like Bootstrap 4 and Bootstrap 5  and Brac
 a front end project for a Gym website experimenting with new fonts and styles....
 
  just added the about us page and linked it to the home page....
-
+                                  
 
 <marquee>I LOVE THE gym. There’s nothing quite like the feeling you get after a long row on the rowing machine or 40 minutes of hard cardio. It’s a key part of my mental health routine  along with a healthy diet, a very good therapist and some strong antidepressants. 
 In another life maybe I would have been a strong advocate for keeping the gyms open in Level 5. As someone who suffers from both depression and anxiety, the news that gyms would not be kept open in Level 5 did upset me.
